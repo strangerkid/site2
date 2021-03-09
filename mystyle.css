@@ -6,6 +6,7 @@ body {
 div {
   background-color: #DC143C
   color: #BDB76B;
+  border-radius: 25px;
   width: 300px;
   border: 15px solid #000
   padding: 50px;
