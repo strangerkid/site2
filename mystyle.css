@@ -3,6 +3,7 @@ body {
   background-color: #5F9EA0;
   background-image: linear-gradient (red, blue);
 }
+
 div {
   background-color: #DC143C
   color: #BDB76B;
@@ -12,6 +13,7 @@ div {
   padding: 50px;
   margin: 20px'
 }
+
 h1 {
   color: #FFE4C4;
   margin-left: 20px;
@@ -19,9 +21,11 @@ h1 {
   color: purple;
   text-shadow: 2px 2px #000000
 }
+
 p {
   color: #9932CC;
 }
+
 #fries {
   padding: 20px;
   border: 3px solid #000;
